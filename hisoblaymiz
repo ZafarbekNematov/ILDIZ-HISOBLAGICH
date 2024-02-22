@@ -1,0 +1,3 @@
+son= float(input("ildiz hisoblagich ishga tushdi. son kiriting  : "))
+ildiz = son**0.5
+print(f"{son} ning ildizi{ildiz} ga teng")
